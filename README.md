@@ -67,3 +67,15 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ### 🛡️ License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+
+...
+
+## 🌟 About Me
+
+Hi there! I'm **Sherif Mohammed**. I'm a professional pharmacist and technical specialist on a mission to build advanced data automation tools and share knowledge in the data analysis world!
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
+
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINK_HERE](https://www.linkedin.com/in/sherif-mohammed-8a0aa3162/))
+
